@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Drvce)(type KiCad)(uri ${KIPRJMOD}/Drvce.pretty)(options "")(descr ""))
+  (lib (name ESP32IoTPlatform)(type KiCad)(uri "C:/Users/Josip/Google Drive/TVZ/Ostalo/KiCad/ESP32IoTPlatform/ESP32IoTPlatform.pretty")(options "")(descr ""))
+)
