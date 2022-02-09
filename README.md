@@ -3,4 +3,6 @@
 
 ![](Images/front_side_dark.jpg)
  
+ Video of it in action: https://www.youtube.com/watch?v=5eK83JGs8PI
+ 
  
