@@ -1,2 +1,4 @@
 # Drvce
- Christmas tree
+ Christmas tree powered by ATTiny85 microcontroller. WS2812 (neopixel) LEDs with automatic brightness control which adapt to the lighting conditions.
+ 
+ 
