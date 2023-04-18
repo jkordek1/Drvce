@@ -8,7 +8,7 @@
 ## What is it?
 Christmas tree powered by ATTiny85 microcontroller. WS2812-B (neopixel) LEDs with automatic brightness control which adapt to the lighting conditions.
 
-##YouTube
+## YouTube
 See it in action: https://www.youtube.com/watch?v=5eK83JGs8PI
 
 ## Images
