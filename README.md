@@ -16,4 +16,14 @@ See it in action: https://www.youtube.com/watch?v=5eK83JGs8PI
   <img width="600" src="https://raw.githubusercontent.com/jkordek1/Drvce/main/Images/front_side_dark.jpg">
 </p>
 
-
+## Project folder structure
+    .
+    ├── ...
+    ├── Images                  # Images of the project
+    ├── Output files            # Gerber files
+    ├── KiCadFiles              # Main folder
+    │   ├── assembly           # Assembly files
+    │   ├── bom                 # ibom assembly files
+    │   └── gerber              # gerber
+    ├── Schematic.pdf           # Schematic .pdf file
+    └── ...
