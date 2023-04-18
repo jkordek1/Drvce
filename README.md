@@ -22,7 +22,7 @@ See it in action: https://www.youtube.com/watch?v=5eK83JGs8PI
     ├── Images                  # Images of the project
     ├── Output files            # Gerber files
     ├── KiCadFiles              # Main folder
-    │   ├── assembly           # Assembly files
+    │   ├── assembly            # Assembly files
     │   ├── bom                 # ibom assembly files
     │   └── gerber              # gerber
     ├── Schematic.pdf           # Schematic .pdf file
