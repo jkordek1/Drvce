@@ -1,7 +1,19 @@
-# Drvce
- 
- Christmas tree powered by ATTiny85 microcontroller. WS2812 (neopixel) LEDs with automatic brightness control which adapt to the lighting conditions.
- 
- See it in action: https://www.youtube.com/watch?v=5eK83JGs8PI
+# Christmas tree
 
-![](Images/front_side_dark.jpg)
+[![Version](https://img.shields.io/github/v/release/jkordek1/Drvce)](https://github.com/jkordek1/Drvce/releases/tag/Initial)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/jkordek1/Drvce)](https://github.com/jkordek1/Drvce/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jkordek1/Drvce)](https://github.com/jkordek1/Drvce/pulls)
+
+## What is it?
+Christmas tree powered by ATTiny85 microcontroller. WS2812-B (neopixel) LEDs with automatic brightness control which adapt to the lighting conditions.
+
+##YouTube
+See it in action: https://www.youtube.com/watch?v=5eK83JGs8PI
+
+## Images
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/jkordek1/Drvce/main/Images/front_side_dark.jpg">
+</p>
+
+
